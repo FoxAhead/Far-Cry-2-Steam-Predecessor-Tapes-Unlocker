@@ -1,3 +1,6 @@
+| In order not to change the file physically, I recommend using the utility to start the game with various fixes right in the process memory. Read more: https://github.com/FoxAhead/Far-Cry-2-Multi-Fixer |
+| --- |
+
 # Far Cry 2 Steam Predecessor Tapes Unlocker
 
 ![Screenshot](Screenshots/Unlocker.png?raw=true)
